@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-curruntly working on database admin sql and nosql<br>like postgres cassandra mongodb
+Currently working as a Database Administrator, with experience in both SQL and NoSQL databases, including PostgreSQL, Apache Cassandra, and MongoDB. Passionate about database management, performance optimization, monitoring, troubleshooting, and ensuring database reliability and availability.
 
 
 ## 🌐 Socials:
